@@ -15,7 +15,9 @@ function frameIt() {
 
 function pressIt() {
   $(`#typing`).keydown( (button) => {
-    
+    if (button.key == `g` || button.key == `G`) {
+      
+    }
   });
 }
 
