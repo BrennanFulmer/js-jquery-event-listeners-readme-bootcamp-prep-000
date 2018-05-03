@@ -1,6 +1,6 @@
 //define functions here
 
-function a() {
+function getIt() {
   
 }
 
