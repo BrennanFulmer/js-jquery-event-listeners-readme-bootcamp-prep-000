@@ -1,7 +1,9 @@
 //define functions here
 
 function getIt() {
-  $(`p`).
+  $(`p`).click(function() {
+    
+  });
 }
 
 function frameIt() {
