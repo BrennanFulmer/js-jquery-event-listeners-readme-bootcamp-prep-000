@@ -1,8 +1,8 @@
 //define functions here
 
-function a() {
-  
-}
+$('h1').on("eventname", function(){
+    //action you want taken
+});
 
 
 
