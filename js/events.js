@@ -1,14 +1,14 @@
 //define functions here
 
 function getIt() {
-  $(`p`).click(function() {
+  $(`p`).click( () => {
     alert("Hey!");
   });
 }
 
 function frameIt() {
   let pic = $(`img`);
-  pic.load(function() {
+  pic.load( () => {
     pic.addClass("tasty");
   });
 }
