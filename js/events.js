@@ -8,7 +8,7 @@ function frameIt() {
   
 }
 
-function a() {
+function pressIt() {
   
 }
 
