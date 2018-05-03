@@ -14,7 +14,9 @@ function frameIt() {
 }
 
 function pressIt() {
-  $(`#typing`).keydown()
+  $(`#typing`).keydown( (button) => {
+    
+  });
 }
 
 function submitIt() {
