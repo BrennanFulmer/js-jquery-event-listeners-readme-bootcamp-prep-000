@@ -12,7 +12,7 @@ function pressIt() {
   
 }
 
-function a() {
+function submitIt() {
   
 }
 
