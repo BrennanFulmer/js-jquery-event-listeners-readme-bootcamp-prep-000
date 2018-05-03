@@ -7,7 +7,9 @@ function getIt() {
 }
 
 function frameIt() {
-  $(`img`).load();
+  $(`img`).load(function() {
+    
+  });
 }
 
 function pressIt() {
