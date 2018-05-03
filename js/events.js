@@ -8,7 +8,7 @@ function getIt() {
 
 function frameIt() {
   $(`img`).load(function() {
-    
+    .addClass("locked");
   });
 }
 
