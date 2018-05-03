@@ -9,7 +9,7 @@ function getIt() {
 function frameIt() {
   let pic = $(`img`);
   pic.load(function() {
-    pic.addClass("locked");
+    pic.addClass("tasty");
   });
 }
 
