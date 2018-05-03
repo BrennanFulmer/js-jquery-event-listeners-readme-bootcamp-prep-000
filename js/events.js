@@ -4,7 +4,7 @@ function getIt() {
   
 }
 
-function a() {
+function frameIt() {
   
 }
 
